@@ -1,9 +1,9 @@
 # main links
 main:
+  #- title: "Task5.5_1B_191524055"
+   # url: "webscrap.html"
   - title: "Task5.5_1B_191524055"
-    url: "webscrap.html"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https:"webscrap.html"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
